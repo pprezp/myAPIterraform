@@ -16,7 +16,8 @@ RUN apt-get update -qq && \
     chown -R jenkins:jenkins $JENKINS_HOME/ && \
     touch /var/run/docker.sock && \
     chown -R jenkins:jenkins /var/run/docker.sock && \
-    chmod 666 /var/run/docker.sock
+    chmod 666 /var/run/docker.sock &&\
+    apt install maven
 
 USER jenkins
 

@@ -1,5 +1,18 @@
-# myAPI-terraform
+## Presentación del repositorio
 
-myAPI is the proyect used in bedu Agile Development course.
+### Construido con 🛠️
 
-It builds jenkins and sonarqube containers to build and test your pipelines.
+* [Terraform]() Lenguaje utilizado
+* [Docker]() Contenedores de aplicaciones
+
+
+### Pasos para implementarlo localmente
+
+
+
+### Autor ✒️
+
+* **Pablo Perez** - *Trabajo Inicial* - [pprezp](https://github.com/pprezp)
+
+---
+⌨️ con ❤️ por [pprezp](https://github.com/pprezp) 😊
