@@ -2,7 +2,7 @@
 
 ### Construido con 🛠️
 
-* [Terraform]() Software de IaaS
+* [Terraform]() Software de IaC
 * [Docker]() Contenedores de aplicaciones
 
 
