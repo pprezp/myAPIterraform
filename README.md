@@ -16,6 +16,8 @@ Con Terraform y Docker previamente instalados, se deben seguir los pasos siguien
 
 * Si Terraform no encuentra ningun error, ejecutando <code>docker ps</code> desde terminal, esta mostrará los contenedores programados y en ejecución. Deberiamos ser capaces de ingresar al contenedor de Jenkins desde <code>http://localhost:8080</code>.
 
+* Al terminar y para liberar recursos utilizar el comando <code>terraform destroy</code>
+
 ### Autor ✒️
 
 * **Pablo Perez** - *Trabajo Inicial* - [pprezp](https://github.com/pprezp)
